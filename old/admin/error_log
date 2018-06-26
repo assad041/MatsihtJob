@@ -1,0 +1,9 @@
+[19-Sep-2016 03:39:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 51
+[19-Sep-2016 06:36:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 51
+[19-Sep-2016 06:54:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 51
+[19-Sep-2016 10:02:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 51
+[19-Sep-2016 11:16:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 51
+[19-Sep-2016 14:11:19 UTC] PHP Notice:  Undefined index: admin_id in /home/matsihtjob/public_html/admin/admin_master.php on line 9
+[19-Sep-2016 14:12:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 51
+[19-Sep-2016 17:17:20 UTC] PHP Notice:  Undefined index: id in /home/matsihtjob/public_html/admin/page/add_advertise.php on line 9
+[20-Sep-2016 15:08:27 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 51

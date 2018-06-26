@@ -1,0 +1,40 @@
+[18-Sep-2016 18:06:40 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/home.php on line 2
+[19-Sep-2016 03:32:09 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/controller_master.php on line 12
+[19-Sep-2016 04:42:48 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 129
+[19-Sep-2016 04:44:56 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/matsihtjob/public_html/class/super_admin.php on line 971
+[19-Sep-2016 06:07:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 129
+[19-Sep-2016 06:36:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 129
+[19-Sep-2016 06:42:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 129
+[19-Sep-2016 06:43:46 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/matsihtjob/public_html/class/super_admin.php on line 971
+[19-Sep-2016 06:44:03 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/matsihtjob/public_html/class/super_admin.php on line 971
+[19-Sep-2016 06:44:14 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/posted_job.php on line 4
+[19-Sep-2016 06:44:14 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/posted_job.php on line 41
+[19-Sep-2016 06:46:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 129
+[19-Sep-2016 06:47:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 129
+[19-Sep-2016 06:48:39 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/passchange.php on line 8
+[19-Sep-2016 07:03:55 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/application.php on line 4
+[19-Sep-2016 07:03:55 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/application.php on line 41
+[19-Sep-2016 07:08:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 129
+[19-Sep-2016 07:13:37 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/matsihtjob/public_html/class/super_admin.php on line 971
+[19-Sep-2016 07:13:47 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/matsihtjob/public_html/class/super_admin.php on line 971
+[19-Sep-2016 07:14:36 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 129
+[19-Sep-2016 11:04:29 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/home.php on line 2
+[19-Sep-2016 12:58:53 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/posted_job.php on line 4
+[19-Sep-2016 12:58:53 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/posted_job.php on line 41
+[19-Sep-2016 13:04:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 129
+[19-Sep-2016 14:58:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 129
+[19-Sep-2016 14:58:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 129
+[19-Sep-2016 17:03:53 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/home.php on line 2
+[19-Sep-2016 17:55:29 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/controller_master.php on line 12
+[19-Sep-2016 17:55:29 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/candidate_list.php on line 18
+[19-Sep-2016 17:55:29 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/candidate_list.php on line 55
+[19-Sep-2016 17:55:29 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/controller_master.php on line 12
+[19-Sep-2016 17:55:29 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/candidate_list.php on line 18
+[19-Sep-2016 17:55:29 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/candidate_list.php on line 55
+[19-Sep-2016 17:55:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 129
+[20-Sep-2016 04:30:30 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 129
+[20-Sep-2016 05:41:24 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/application.php on line 4
+[20-Sep-2016 05:41:24 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/application.php on line 41
+[20-Sep-2016 15:02:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 129
+[20-Sep-2016 15:08:02 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/application.php on line 4
+[20-Sep-2016 15:08:02 UTC] PHP Notice:  Undefined index: client_id in /home/matsihtjob/public_html/client_login/page/application.php on line 41

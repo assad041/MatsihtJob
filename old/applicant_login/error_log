@@ -1,0 +1,52 @@
+[19-Sep-2016 04:49:14 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 05:55:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 06:28:55 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 06:32:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 06:36:29 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/matsihtjob/public_html/class/super_admin.php on line 627
+[19-Sep-2016 06:36:44 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/page/profile.php on line 4
+[19-Sep-2016 06:36:44 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 661
+[19-Sep-2016 06:36:44 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 426
+[19-Sep-2016 06:36:44 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 426
+[19-Sep-2016 06:36:44 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/page/profile.php on line 70
+[19-Sep-2016 06:36:44 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 426
+[19-Sep-2016 06:36:44 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 426
+[19-Sep-2016 06:36:44 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 426
+[19-Sep-2016 06:36:44 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 426
+[19-Sep-2016 06:36:44 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 426
+[19-Sep-2016 06:36:44 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 661
+[19-Sep-2016 06:39:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 06:42:13 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/page/apply_status.php on line 5
+[19-Sep-2016 06:42:13 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/page/apply_status.php on line 44
+[19-Sep-2016 06:44:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 06:45:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 06:46:28 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 1137
+[19-Sep-2016 06:46:28 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 1137
+[19-Sep-2016 06:47:14 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 1137
+[19-Sep-2016 06:47:14 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 1137
+[19-Sep-2016 07:07:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 07:29:20 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/controller_master.php on line 11
+[19-Sep-2016 08:25:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 12:59:23 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 13:02:27 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 1137
+[19-Sep-2016 13:02:27 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/class/super_admin.php on line 1137
+[19-Sep-2016 13:03:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 13:03:57 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/page/apply_status.php on line 5
+[19-Sep-2016 13:03:57 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/page/apply_status.php on line 44
+[19-Sep-2016 13:06:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 14:36:13 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/controller_master.php on line 11
+[19-Sep-2016 14:36:13 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/page/apply_status.php on line 5
+[19-Sep-2016 14:36:13 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/page/apply_status.php on line 44
+[19-Sep-2016 14:36:33 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 14:55:09 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 15:07:46 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/controller_master.php on line 11
+[19-Sep-2016 15:07:46 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/page/apply_status.php on line 5
+[19-Sep-2016 15:07:46 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/page/apply_status.php on line 44
+[19-Sep-2016 15:08:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 15:23:47 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 15:23:54 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/matsihtjob/public_html/class/admin.php on line 96
+[19-Sep-2016 15:45:57 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/controller_master.php on line 11
+[19-Sep-2016 15:45:57 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/page/apply_status.php on line 5
+[19-Sep-2016 15:45:57 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/page/apply_status.php on line 44
+[19-Sep-2016 16:59:47 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/controller_master.php on line 11
+[19-Sep-2016 16:59:47 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/page/apply_status.php on line 5
+[19-Sep-2016 16:59:47 UTC] PHP Notice:  Undefined index: applicant_id in /home/matsihtjob/public_html/applicant_login/page/apply_status.php on line 44
